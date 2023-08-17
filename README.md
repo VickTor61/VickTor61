@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @VickTor61
-- 👀 I’m interested in problem solving and coding applications that I'm proud of ...
-- 🌱 I’m currently learning  sorting algorithms using recursion, advance react.js concepts and typescript...
-- 💞️ I'm currently looking to collaborate on a saas project using Mern stack to build an e-commerce web application 
-- 📫 Reach me on my twitter handle  https://twitter.com/VictorEnoma2?t=PA8qpxZJ07P7qS7VV5to1g&s=09 or via email @ enomavictor2002@gmail.com..
+<div id="header" align="center">
+    <img        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Nwdm5wcGIxb285azFqYzlla3ZoMWl6ZzdkMWcxcHZuendiZ2U5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+   width="100" />
+  
+  <div id='badges'>
+    <a href="www.linkedin.com/in/victor-enoma-0ab59b1a5">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a  href="https://twitter.com/VictorEnoma2">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=VickTor61&style=flat-square&color=blue" alt=""/>
 
-<!---
-VickTor61/VickTor61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
